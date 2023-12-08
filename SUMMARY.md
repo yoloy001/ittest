@@ -1,4 +1,6 @@
 # Table of contents
 
 * [前言](README.md)
-* [硬件维护](ying-jian-wei-hu.md)
+* [硬件维修](ying-jian-wei-xiu/README.md)
+  * [电脑硬件](ying-jian-wei-xiu/dian-nao-ying-jian.md)
+  * [打印机](ying-jian-wei-xiu/da-yin-ji.md)
