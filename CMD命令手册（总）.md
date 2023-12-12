@@ -1,8 +1,6 @@
 **开机自动运行某bat脚本**
 
-将bat脚本放到：
-
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+将bat脚本放到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 # 常用程序
 | 常用 |  | 服务编辑 |  | 其他 |  |
