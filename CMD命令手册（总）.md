@@ -27,8 +27,8 @@ slmgr.vbs -xpr	查看激活状态<br />slmgr.vbs -dlv	查看激活详细信息<b
 shutdown -t 3600 -s 1小时后关机<br />shutdown -a 取消关机<br />start 打开文件、程序或网址<br />d: 进入相应磁盘<br />dir 显示目录中的文件和子目录列表<br />cd .. 进入上一级目录<br />cd desktop 当前目录文件名<br />pause 暂停运行<br />cls 清除屏幕<br />exit 退出cmd程序<br />cmd 运行后还能继续输入<br />wmic product get name 显示已安装程序信息
 #### 其他命令
 gpupdate 更新组策略<br />chkdsk i: /f 修复磁盘命令，i改成要修复的磁盘<br />sfc /scannow 自动检测修复系统文件<br />net start Spooler 启动Spooler服务<br />taskkill /f /t /im qq.exe 关闭QQ进程
-#### 
-#### 
+## 1
+## 2
 
 
 
