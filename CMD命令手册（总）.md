@@ -9,6 +9,7 @@
 | dxdiag  | 计算机详细信息 | service.msc  | 服务编辑器 | appwiz.cpl  | 卸载程序 |
 | mstsc  | 远程控制 | regedit | 注册表编辑器  | taskschd.msc  | 自动计划任务 |
 | control  | 控制面板 | secpol.msc | 本地安全策略 |  |  |
+
 |||||||
 |--|--|--|--|--|--|
 |||||||
