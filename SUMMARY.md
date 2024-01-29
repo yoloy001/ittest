@@ -3,6 +3,7 @@
 * [CMD命令手册](README.md)
 * [新系统调试](newos\_init.md)
 * [前言](<README (1).md>)
+* [常见故障](chang-jian-gu-zhang.md)
 * [Windows系统](windows-xi-tong/README.md)
   * [电脑硬件故障](windows-xi-tong/dian-nao-ying-jian-gu-zhang.md)
   * [打印机连接与共享](windows-xi-tong/da-yin-ji-lian-jie-yu-gong-xiang.md)
