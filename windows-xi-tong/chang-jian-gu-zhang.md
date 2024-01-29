@@ -11,7 +11,7 @@
 * **Win10进系统显示系统故障，修复无效：**进安全模式，扫描系统修复 scanfnow
 * **Win7登录输入用户名默认为中文输入：**控制面板-区域和语言-管理-勾选将当前设置复制到欢迎屏幕，应用即可
 
-![](https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NGRkMWY3NDE0MGFhNzc5NjUyZjg1MDAwMDYxYTE5OGNfNkkyajNBb1V6eTBibTBvZFRJb1Z6RjJ6NzVHZWRxdlFfVG9rZW46UFVwYmJRTGc4b0JiRzZ4SmhlbGMyQ0tNbk5jXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA)
+<figure><img src="https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NGRkMWY3NDE0MGFhNzc5NjUyZjg1MDAwMDYxYTE5OGNfNkkyajNBb1V6eTBibTBvZFRJb1Z6RjJ6NzVHZWRxdlFfVG9rZW46UFVwYmJRTGc4b0JiRzZ4SmhlbGMyQ0tNbk5jXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA" alt="" width="563"><figcaption></figcaption></figure>
 
 * **加密文件夹方法：**右键文件夹-属性-高级-加密
 * **远程桌面：**需开启后才能访问，电脑默认为关闭。笔记本休眠后再开启可能会导致远程桌面无法连接，电脑重新连接网络即可。开启 Windows hello会导致无法使用微软账户进行远程桌面，本地账户不影响。关闭后退出账户重新登陆即可。
@@ -29,16 +29,16 @@
 
 ### Office
 
-* 2 013打开闪退：从主程序打开并设置为默认打开程序。wps篡改默认启动导致。
-* office Excel2010 打开文件提示向程序发送命令错误：“Excel选项”-“高级”-“常规”-去掉“忽略使用动态数据交换DDE的其它应用程序”
-* office单个ptt修改内容，一动就卡死：版本过低文件与软件不兼容，升级版本。
+* Office2013打开闪退：从主程序打开并设置为默认打开程序。wps篡改默认启动导致。
+* Office Excel2010 打开文件提示向程序发送命令错误：“Excel选项”-“高级”-“常规”-去掉“忽略使用动态数据交换DDE的其它应用程序”
+* Office单个ptt修改内容，一动就卡死：版本过低文件与软件不兼容，升级版本。
 * 安装office2010 提示1935 ：.net版本过低，升级.net版本。
-* outlook打开提示olmapis32.dll错误：使用安装程序选择第一次安装状态修复。
+* Outlook打开提示olmapis32.dll错误：使用安装程序选择第一次安装状态修复。
 * 设置outlook让邮件自动保存到本地方法 https://zhidao.baidu.com/question/881648312896991012.html outlook2010
 * http://m.meiriyixue.cn/post/216.html outlook2016及新版本设置方法
 * 第二种方法：新建本地outlook后，创建接收规则，当接收到指定关键字时移动到指定文件夹。
 * 设置成本地后云端邮箱接收不到
-* outlook规则：对人，主题正文关键字，抄送，发送人，标记，邮件地址，类别，附件，时间
+* Outlook规则：对人，主题正文关键字，抄送，发送人，标记，邮件地址，类别，附件，时间
 
 操作：删除，移动，转发，标记，指定答复，桌面通知，播放声音，打印，打开软件，运行脚本等最后设置例外操作。垃圾邮件：指定发信人设置为垃圾邮件，设置安全收件人。实用规则：移动某一类邮件至指定文件夹
 
@@ -48,9 +48,9 @@
 
 ### WPS
 
-* wps打开文档格式变了：另存为2003-2007版本文件。
-* wps卡顿：更换2019版wps。
-* 重装后页面边距不对:打开视图-标尺，调整缩进
+* WPS打开文档格式变了：另存为2003-2007版本文件
+* WPS卡顿：更换为2019WPS教育考试版
+* 重装后页面边距不对：打开视图-标尺，调整缩进
 
 ### Adobe
 
@@ -73,15 +73,13 @@ https://itsc.nju.edu.cn/adobe/listm.htm
 
 相关链接：https://zhuanlan.zhihu.com/p/334726877
 
-* win7谷歌浏览器字体模糊：新版本109.0.5414.75导致。更换浏览器或降低版本
-
-系统安装kb2670838后正常
-
-* 电脑微信登录卡死，扫码显示后手机已登录，但电脑微信卡死:b. 输入“%appdata%”并按回车键打开应用程序数据文件夹； c. 找到“Tencent”文件夹，然后找到“WeChat”文件夹； d. 打开“Temp”文件夹，然后删除其中的所有文件
+* **Win7谷歌浏览器字体模糊：**新版本109.0.5414.75导致。更换浏览器或降低版本，系统安装kb2670838补丁后正常
+* 电脑微信登录卡死，扫码显示后手机已登录，但电脑微信卡死：b. 输入“%appdata%”并按回车键打开应用程序数据文件夹； c. 找到“Tencent”文件夹，然后找到“WeChat”文件夹； d. 打开“Temp”文件夹，然后删除其中的所有文件
 * 压缩包内文件名乱码:升级压缩软件版本即可
 
-![](https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NjBhMWIxNGU5NGIxMzBkMzMxMzExYmFhNjhjYzZkZmVfMEY0Zk9OSHBpNVVMMWJPZ1l0Q3FlZTdDU1lRd0J6TWtfVG9rZW46SFNacmJibkR2bzBrVUd4QVFlN2NJYlJIbk5oXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA)![](https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NTliOTg5OGM1N2M1ZWQ1OGFlNjViNDlkMDU2ZDY4NDBfbTVUMEpyUThSWTRCZUxhb3lBekJWR0xkMXRLQmlCajNfVG9rZW46TUZ0bmJLdjBWbzBKNWR4Szg0aGNDSkJ4bmtjXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA)苹果压缩文件解压后有两个https://www.betterzipcn.com/faq/better-fgur.html
+![](https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NjBhMWIxNGU5NGIxMzBkMzMxMzExYmFhNjhjYzZkZmVfMEY0Zk9OSHBpNVVMMWJPZ1l0Q3FlZTdDU1lRd0J6TWtfVG9rZW46SFNacmJibkR2bzBrVUd4QVFlN2NJYlJIbk5oXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA)![](https://w2027riewk.feishu.cn/space/api/box/stream/download/asynccode/?code=NTliOTg5OGM1N2M1ZWQ1OGFlNjViNDlkMDU2ZDY4NDBfbTVUMEpyUThSWTRCZUxhb3lBekJWR0xkMXRLQmlCajNfVG9rZW46TUZ0bmJLdjBWbzBKNWR4Szg0aGNDSkJ4bmtjXzE3MDY1Mzg5MzQ6MTcwNjU0MjUzNF9WNA)
 
-* 解除edge强制打开IE：https://baijiahao.baidu.com/s?id=1759166046784512253\&wfr=spider\&for=pc
+* 苹果压缩文件解压后有两个原因：https://www.betterzipcn.com/faq/better-fgur.html
+* 解除edge强制打开IE：https://baijiahao.baidu.com/sid=1759166046784512253\&wfr=spider\&for=pc
 
 近期Windows更新补丁取消了这一方法，需要卸载补丁后才能生效。
