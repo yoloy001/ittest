@@ -2,7 +2,7 @@
 description: 开机无响应、黑屏、蓝屏、卡慢修复
 ---
 
-# 电脑硬件
+# 电脑硬件故障
 
 ### **开机无响应、开机黑屏**
 
@@ -86,6 +86,8 @@ dell电脑进pe重装系统后重启提示:Operating System Loader failed signat
 
 (机械硬盘读写速度也就百兆左右，遇到碎小文件还有IO瓶颈十分缓慢，而且在传送文件的时候操作其他的，会非常卡顿。因为全程都在读写，加上其他操作就又增加了读写难度)
 
+### **独显集显同时用无法双屏**
 
+**BIOS中开启混合模式：**进入BIOS--按F7键进入高级模式--Advanced--NB Configuration IGFX Multi-Monitor默认是Disabled（关闭）的，将其Enabled（开启），并按F10键保存退出即可
 
 **Windows系统故障排除手册：**https://learn.microsoft.com/zh-cn/troubleshoot/windows/

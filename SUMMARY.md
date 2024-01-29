@@ -2,7 +2,6 @@
 
 * [CMD命令手册](README.md)
 * [新系统调试](newos\_init.md)
-* [前言](<README (1).md>)
 * [Windows系统](windows-xi-tong/README.md)
   * [常见故障](windows-xi-tong/chang-jian-gu-zhang.md)
   * [电脑硬件故障](windows-xi-tong/dian-nao-ying-jian-gu-zhang.md)
@@ -22,3 +21,4 @@
 * [Linux系统](linux-xi-tong.md)
 * [IT设备](it-she-bei.md)
 * [VMware虚拟化](vmware-xu-ni-hua.md)
+* [前言](<README (1).md>)
