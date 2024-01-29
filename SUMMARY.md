@@ -2,9 +2,9 @@
 
 * [CMD命令手册](README.md)
 * [新系统调试](newos\_init.md)
-* [常用脚本](chang-yong-jiao-ben.md)
 * [Windows系统](windows-xi-tong/README.md)
   * [常见故障](windows-xi-tong/chang-jian-gu-zhang.md)
+  * [常用脚本](windows-xi-tong/chang-yong-jiao-ben.md)
   * [电脑硬件故障](windows-xi-tong/dian-nao-ying-jian-gu-zhang.md)
   * [打印机连接与共享](windows-xi-tong/da-yin-ji-lian-jie-yu-gong-xiang.md)
   * [打印机故障](windows-xi-tong/da-yin-ji-gu-zhang.md)
