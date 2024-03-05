@@ -30,5 +30,5 @@
   * [投影仪](it-she-bei/tou-ying-yi.md)
   * [门禁](it-she-bei/men-jin.md)
   * [电话交换机](it-she-bei/dian-hua-jiao-huan-ji.md)
-* [企业IT SOP标准文档](qi-ye-it-sop-biao-zhun-wen-dang.md)
+* [IT SOP标准](it-sop-biao-zhun.md)
 * [前言](<README (1).md>)
