@@ -6,7 +6,12 @@
 
 ## 常用程序
 
-<table><thead><tr><th width="121">常用</th><th width="146"></th><th width="124">服务编辑</th><th width="129"></th><th width="163">其他</th><th width="104"></th></tr></thead><tbody><tr><td>msconfig</td><td>开机启动项管理</td><td>gpedit.msc</td><td>组策略编辑器</td><td>compmgmt.msc</td><td>计算机管理</td></tr><tr><td>dxdiag</td><td>计算机详细信息</td><td>service.msc</td><td>服务编辑器</td><td>appwiz.cpl</td><td>卸载程序</td></tr><tr><td>mstsc</td><td>远程控制</td><td>regedit</td><td>注册表编辑器</td><td>taskschd.msc</td><td>自动计划任务</td></tr><tr><td>control</td><td>控制面板</td><td>secpol.msc</td><td>本地安全策略</td><td></td><td></td></tr></tbody></table>
+| 常用       |         | 服务编辑        |        | 其他           |        |
+| -------- | ------- | ----------- | ------ | ------------ | ------ |
+| msconfig | 开机启动项管理 | gpedit.msc  | 组策略编辑器 | compmgmt.msc | 计算机管理  |
+| dxdiag   | 计算机详细信息 | service.msc | 服务编辑器  | appwiz.cpl   | 卸载程序   |
+| mstsc    | 远程控制    | regedit     | 注册表编辑器 | taskschd.msc | 自动计划任务 |
+| control  | 控制面板    | secpol.msc  | 本地安全策略 |              |        |
 
 \*msconfig 可查看开机启动项，工具里可查看UAC，Internet选项，程序，计算机管理等
 
