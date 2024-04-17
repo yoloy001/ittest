@@ -2,12 +2,13 @@
 
 ### &#x20;**查看配置**
 
-<pre><code><strong>system-view #系统编辑视图
-</strong><strong>display current-configuration #查看当前所有配置信息
-</strong>undo 配置命令 #清除配置命令
+```
+system-view #系统编辑视图
+display current-configuration #查看当前所有配置信息
+undo 配置命令 #清除配置命令
 display interface brief #查看接口信息
 display vlan #查看vlan信息
-</code></pre>
+```
 
 ### **DHCP配置**
 
