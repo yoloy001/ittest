@@ -1,6 +1,7 @@
 # CMD命令手册
 
 **极域万能密码：**mythware\_super\_password
+
 <button type='button' onclick="copyfun()">点击复制</button>
 
 <h2 style="font-weight: 600;">黑屏</h2>
