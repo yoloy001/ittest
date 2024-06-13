@@ -1,7 +1,7 @@
 # CMD命令手册
 
 **极域万能密码：**mythware\_super\_password
-<button type='button' class='layui-btn' onclick="copyfun()">点击复制</button>
+<button type='button' onclick="copyfun()">点击复制</button>
 
 **开机自动运行某bat脚本**
 
