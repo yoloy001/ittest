@@ -1,6 +1,6 @@
 # CMD命令手册
 
-**极域万能密码：**mythware\_super\_password
+**极域万能密码：** mythware\_super\_password
 
 <button type='button' onclick="copyfun()">点击复制</button>
 
