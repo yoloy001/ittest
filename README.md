@@ -2,18 +2,6 @@
 
 **极域万能密码：** mythware\_super\_password
 
-<p><button onclick="
-    var text = '要复制的文本';
-    var textArea = document.createElement('textarea');
-    textArea.value = text;
-    document.body.appendChild(textArea);
-    textArea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textArea);
-">复制文本</button></p>
-
-<h2 style="font-weight: 600;">黑屏</h2>
-
 **开机自动运行某bat脚本**
 
 将bat脚本放到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
