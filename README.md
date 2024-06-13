@@ -2,7 +2,15 @@
 
 **极域万能密码：** mythware\_super\_password
 
-<button type='button' onclick="copyfun()">点击复制</button>
+<button onclick="
+			    var text = '要复制的文本';
+			    var textArea = document.createElement('textarea');
+			    textArea.value = text;
+			    document.body.appendChild(textArea);
+			    textArea.select();
+			    document.execCommand('copy');
+			    document.body.removeChild(textArea);
+  ">复制文本</button>
 
 <h2 style="font-weight: 600;">黑屏</h2>
 
