@@ -1,6 +1,10 @@
 # CMD命令手册
 
-**极域万能密码：** mythware\_super\_password
+**极域万能密码：**&#x20;
+
+```
+mythware_super_password
+```
 
 **开机自动运行某bat脚本**
 
@@ -80,8 +84,6 @@ chkdsk i: /f 修复磁盘命令，i改成要修复的磁盘\
 sfc /scannow 自动检测修复系统文件\
 net start Spooler 启动Spooler服务\
 taskkill /f /t /im qq.exe 关闭QQ进程
-
-
 
 ## Windows系统日志
 
