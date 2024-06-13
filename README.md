@@ -1,5 +1,7 @@
 # CMD命令手册
 
+**极域万能密码：**mythware\_super\_password
+
 **开机自动运行某bat脚本**
 
 将bat脚本放到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
