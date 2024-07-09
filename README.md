@@ -6,6 +6,19 @@
 mythware_super_password
 ```
 
+**添加admin用户到本地管理员：**
+
+```
+net user admin 111 /add 
+net localgroup administrators admin /add
+```
+
+**在D盘创建111文件夹并开启共享：**
+
+<pre><code>mkdir D:\111
+<strong>net share 111=D:\111 /grant:test,FULL
+</strong></code></pre>
+
 **开机自动运行某bat脚本**
 
 将bat脚本放到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
