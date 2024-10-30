@@ -32,6 +32,8 @@
   * [投影仪](it-she-bei/tou-ying-yi.md)
   * [门禁](it-she-bei/men-jin.md)
   * [电话交换机](it-she-bei/dian-hua-jiao-huan-ji.md)
+* [弱电相关](ruo-dian-xiang-guan.md)
+* [职场相关](zhi-chang-xiang-guan.md)
 * [数据库](shu-ju-ku.md)
 * [ERP及OA系统管理](erp-ji-oa-xi-tong-guan-li.md)
 * [前言](<README (1).md>)
