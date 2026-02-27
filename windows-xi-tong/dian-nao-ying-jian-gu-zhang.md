@@ -52,7 +52,7 @@ description: 开机无响应、黑屏、蓝屏、卡慢修复
 
 相关链接：
 
-[戴尔笔记本开机卡死在logo界面怎么办? - 知乎](https://www.zhihu.com/question/381273642/answer/2749886545?utm\_id=0)
+[戴尔笔记本开机卡死在logo界面怎么办? - 知乎](https://www.zhihu.com/question/381273642/answer/2749886545?utm_id=0)
 
 [如何从引导相关问题中恢复计算机 | Dell 中国](https://www.dell.com/support/contents/zh-cn/article/product-support/self-support-knowledgebase/fix-common-issues/no-boot)
 
@@ -88,6 +88,6 @@ dell电脑进pe重装系统后重启提示:Operating System Loader failed signat
 
 ### **独显集显同时用无法双屏**
 
-**BIOS中开启混合模式（双屏）：**进入BIOS--按F7键进入高级模式--Advanced--NB Configuration IGFX Multi-Monitor默认是Disabled（关闭）的，将其Enabled（开启），并按F10键保存退出即可
+**BIOS中开启混合模式（双屏）：**&#x8FDB;入BIOS--按F7键进入高级模式--Advanced--NB Configuration IGFX Multi-Monitor默认是Disabled（关闭）的，将其Enabled（开启），并按F10键保存退出即可
 
-**Windows系统故障排除手册：**https://learn.microsoft.com/zh-cn/troubleshoot/windows/
+**Windows系统故障排除手册：**&#x68;ttps://learn.microsoft.com/zh-cn/troubleshoot/windows/

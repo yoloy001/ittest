@@ -46,7 +46,7 @@ switchport mode access
 spanning-tree portfast
 ```
 
-**trunk口和access口区别：**连接trunk口的交换机可以允许多个vlan与其他vlan下的主机通信，但access口只允许单个vlan与其他vlan下的主机通信。
+**trunk口和access口区别：**&#x8FDE;接trunk口的交换机可以允许多个vlan与其他vlan下的主机通信，但access口只允许单个vlan与其他vlan下的主机通信。
 
 **对多个端口进行配置**
 

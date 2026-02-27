@@ -1,7 +1,8 @@
 # Table of contents
 
-* [CMD命令手册](README.md)
-* [新系统调试](newos\_init.md)
+* [导航页](README.md)
+* [CMD命令手册](<README (2).md>)
+* [新系统调试](newos_init.md)
 * [Windows系统](windows-xi-tong/README.md)
   * [常见故障](windows-xi-tong/chang-jian-gu-zhang.md)
   * [常用脚本](windows-xi-tong/chang-yong-jiao-ben.md)
