@@ -1,6 +1,7 @@
 # Table of contents
 
-* [导航页](README.md)
+* [年度计划](README.md)
+* [导航页](<README (3).md>)
 * [CMD命令手册](<README (2).md>)
 * [新系统调试](newos_init.md)
 * [Windows系统](windows-xi-tong/README.md)

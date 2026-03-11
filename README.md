@@ -1,9 +1,29 @@
-# 导航页
+# 年度计划
 
-{% content-ref url="https://app.gitbook.com/s/NG5QfAFqhae0HRcmnvg2/" %}
-[投资计划](https://app.gitbook.com/s/NG5QfAFqhae0HRcmnvg2/)
-{% endcontent-ref %}
+#### [hashtag](./#id-3-yue) **3月**
 
-{% content-ref url="https://app.gitbook.com/s/tRmcLB4jVBW5gw7oNlmm/" %}
-[年度计划](https://app.gitbook.com/s/tRmcLB4jVBW5gw7oNlmm/)
-{% endcontent-ref %}
+* 3.10后 **配副新眼镜**
+* **技能证书报名**
+* 3月底 **房子续租**，争取续半年的
+* 3月底 **计划旅行贵州**
+  * 提前查看天气
+  * 确认时间、交通、游玩景点、美食
+  * 旅行计划大纲
+* **学习计划**
+  * 深度学习使用ai，利用ai制作自动化工具，简化工作
+  * API 通讯工具，ai调用直接打通
+* **情感计划**
+* **休息计划**
+  * 单人KTV？朋友聚餐
+  * 春季樱花
+
+***
+
+#### [hashtag](./#id-4-yue) 4月
+
+* 计划清明租车回老家
+* 旅行计划
+* 端午？ 中秋？
+* 五一、国庆 惯例回家？
+
+最后更新于12天前
